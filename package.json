@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Trim underscores for ngAnnotate",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "dependencies": {},
   "devDependencies": {
     "chai": "^3.4.1",
