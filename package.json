@@ -1,0 +1,29 @@
+{
+  "name": "ng-annotate-trim-underscores",
+  "version": "1.0.0",
+  "description": "Trim underscores for ngAnnotate",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4",
+    "ng-annotate": "^1.2.0"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikaspran/ng-annotate-trim-underscores.git"
+  },
+  "keywords": [
+    "ng-annotate",
+    "ngAnnotate"
+  ],
+  "author": "Nikas Praninskas <nikaspran@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikaspran/ng-annotate-trim-underscores/issues"
+  },
+  "homepage": "https://github.com/nikaspran/ng-annotate-trim-underscores#readme"
+}
